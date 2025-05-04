@@ -1,3 +1,5 @@
+;Purpose it to turn off screen automatically after pressing win+L due to now having an oled monitor and wanting to prevent burn in
+;Along with sometimes random programs and drivers prevent sleep so this 100% makes it sleep
 ;Win+L
 #l::
   Sleep, 3000
