@@ -13,4 +13,4 @@ Along with sometimes random programs and drivers prevent sleep so this 100% make
 doesnt work very often but works sometimes
 
 **autoclicking**
-spamclicking on either left or right click every 50ms, toggled on and off by pressing Win+Ctrl+rightclick or leftclick
+spamclicking on either left or right click every 50ms by holding the respective key, toggled on and off by pressing Win+Ctrl+rightclick or leftclick
